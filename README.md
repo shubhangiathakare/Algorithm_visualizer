@@ -49,10 +49,7 @@ It is designed to make **learning Data Structures and Algorithms (DSA)** more in
 
 ---
 
-## 📷 Screenshots
-| Home Page | Sorting in Action |  
-|-----------|------------------|  
-| ![Home Page](https://via.placeholder.com/400x200.png?text=Algorithm+Visualizer+Home) | ![Sorting Example](https://via.placeholder.com/400x200.png?text=Sorting+Animation) |
+
 
 ---
 
