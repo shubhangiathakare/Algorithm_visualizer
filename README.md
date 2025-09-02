@@ -19,3 +19,5 @@ A web-based **Algorithm Visualizer** built using **HTML, CSS, and JavaScript** t
 
 - **Frontend**: HTML5, CSS3, JavaScript  
 - **No frameworks** – built from scratch for educational purpose.
+
+https://shubhangiathakare.github.io/Algorithm_visualizer/
