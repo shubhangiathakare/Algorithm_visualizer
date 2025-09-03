@@ -37,7 +37,7 @@ It is designed to make **learning Data Structures and Algorithms (DSA)** more in
 ## 📚 Supported Algorithms
 
 ### Sorting Algorithms
-- 🫧 Bubble Sort  
+- 🫧 Bubble Sort    
 - ⚡ Insertion Sort  
 - 🔀 Selection Sort  
 - 🔗 Merge Sort  
