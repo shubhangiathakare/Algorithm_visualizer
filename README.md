@@ -1,6 +1,6 @@
 # 🔢 Algorithm Visualizer
 *A Web-based Visualization Tool for Understanding Sorting and Searching Algorithms*
-
+ 
 ![License](https://img.shields.io/github/license/shubhangiathakare/Algorithm_visualizer?color=blue)  
 ![Stars](https://img.shields.io/github/stars/shubhangiathakare/Algorithm_visualizer?style=social)  
 ![Forks](https://img.shields.io/github/forks/shubhangiathakare/Algorithm_visualizer?style=social)
