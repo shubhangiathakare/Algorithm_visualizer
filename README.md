@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Overview 
 The **Algorithm Visualizer** is an interactive web-based platform that allows users to **visualize the step-by-step process** of various **sorting and searching algorithms**.  
 It is designed to make **learning Data Structures and Algorithms (DSA)** more intuitive and engaging. 
 
